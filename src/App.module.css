@@ -1,0 +1,19 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.mainContainer{
+  padding: 4% 12%;
+  margin-top: 35px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.productPreview{
+  width: 50%;
+  position: relative;
+}
+
+.productData{
+  width: 50%;
+}
